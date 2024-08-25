@@ -2,6 +2,7 @@
 
 This is a CRUD (Create, Read, Update, Delete) application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to manage book records. The application allows users to add, edit, and delete book entries, providing an intuitive interface for easy management of book titles, authors, and publish year.
 
+![Screenshot](img/bookstoreimg.png)
 
 ## Features
 
